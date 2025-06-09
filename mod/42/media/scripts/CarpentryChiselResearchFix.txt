@@ -1,0 +1,7 @@
+module Base
+{
+	item CarpentryChisel
+	{
+		ResearchableRecipes = Forge_Masons_Chisel;Forge_Metalworking_Chisel;Forge_Carpentry_Chisel;MakeStoneChisel,
+	}
+}
