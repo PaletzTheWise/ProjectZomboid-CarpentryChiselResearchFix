@@ -1,6 +1,6 @@
 name=[42] Carpentry chisel research fix
 id=Carpentry_chisel_research_fix
-description=As of PZ build 42.9.0, the carpentry chisel definition contains a typo that prevents the intended research behavior from functioning. This mod fixes it. This enables players to discover the following recipes by researching a carpentry chisel: Knap Stone Chisel and Forge Metalworking/Masonry/Carpentry Chisel.
+description=As of PZ build 42.9.0, the carpentry chisel definition contains a typo that prevents the intended research behavior from functioning. This mod fixes it. It enables players to discover the following recipes by researching a carpentry chisel: Knap Stone Chisel and Forge Metalworking/Masonry/Carpentry Chisel.
 author=Paletz
 poster=poster.png
 modversion=1.0.0
